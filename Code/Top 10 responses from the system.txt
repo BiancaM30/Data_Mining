@@ -1,0 +1,300 @@
+The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation
+['Los Angeles Times', 'Charles Dickens', 'Jimmy Lai', 'Rock-paper-scissors', 'Rupert Murdoch', 'Warren G. Harding', 'Ken Barlow', 'Todd Manning', 'Playing card', 'Peter Kropotkin']
+
+The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China
+['Puerto Rico', 'Madagascar', 'Chile', 'Venezuela', 'Equatorial Guinea', 'The Gambia', 'American frontier', 'First Transcontinental Railroad', 'Pakistan', 'Romania']
+
+Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading
+['The Wall Street Journal', 'Ken Barlow', 'Rupert Murdoch', 'Warren G. Harding', 'Todd Manning', 'Rock-paper-scissors', 'Charles Dickens', 'The New York Sun', 'Boris Berezovsky (businessman)', 'History of British newspapers']
+
+Song that says, "you make me smile with my heart; your looks are laughable, unphotographable"
+['Hair (musical)', 'Mickey Rooney', 'Annie (musical)', 'Carousel (musical)', 'Chess (musical)', 'Musical theatre', 'West Side Story', 'Waiting for Godot', 'Spencer Tracy', 'My Fair Lady']
+
+In 2011 bell ringers for this charity started accepting digital donations to its red kettle
+['Cabernet Sauvignon', "Hey Hey It's Saturday", 'Merlot', 'The Tonight Show', 'Sauvignon blanc', 'Late Show with David Letterman', 'Texaco Star Theatre', 'Marechal Foch', 'Thomcord', 'Colloid']
+
+The Naples Museum of Art
+['Italy', 'Hungary', 'Malta', 'Greta Garbo', 'Genoa', 'Cagliari', 'Steven Spielberg', 'Ezra Pound', 'Mary Magdalene', 'Palermo']
+
+This Italian painter depicted the "Adoration of the Golden Calf"
+['Plastic Man', 'Skeletor', 'Q (Star Trek)', 'Cheshire Cat', 'Clayface', 'Metamorpho', 'Jinpachi Mishima', 'Violator (comics)', 'Joshua Allen', 'Clark Kent']
+
+This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship
+['Jackie Robinson', 'Kareem Abdul-Jabbar', 'Kevin Love', 'Reggie Miller', '1984 Rose Bowl', 'Jackie Joyner-Kersee', 'George Stanich', 'Dawn Harper', 'Julie Dash', 'Kerri Strug']
+
+Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes
+['John Ford', 'Land Rover', 'United States Postal Service', 'Wernher von Braun', 'Bluebell Railway', 'David Duke', 'US Foods', 'Talyllyn Railway', 'Scammell', "London King's Cross railway station"]
+
+Several bridges, including El Tahrir, cross the Nile in this capital
+['Golden Eagle', 'Metropolitan Museum of Art', 'The Temptations', 'African-American Civil Rights Movement (1954–68)', 'Western Sahara', 'Equatorial Guinea', 'Hip hop music', 'Pedro Albizu Campos', 'Charlton Heston', 'Roberto Clemente']
+
+After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war"
+['American frontier', 'Woodrow Wilson', 'Lesser Poland', 'USS Constitution', 'William Lyon Mackenzie King', 'Lviv', 'United States Naval Academy', 'Rideau Hall', 'Dobruja', 'Gore Vidal']
+
+The Taft Museum of Art
+['Cooper Union', 'Chicago', 'Museum of Science and Industry (Chicago)', 'Phoenix, Arizona', 'White House', 'History of the United States (1865–1918)', 'Herbert Hoover', 'Woodrow Wilson', 'Ronald Reagan', 'Douglas MacArthur']
+
+The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery
+['Ted Kennedy', 'Jackie Robinson', 'Sugar Ray Robinson', 'Joe Louis', 'Ralph Richardson', 'Harold Pinter', 'John Ford', 'Heath Ledger', 'Jacqueline Kennedy Onassis', 'Jefferson Davis']
+
+In 2009: Joker on film
+['Martin Scorsese', 'American Beauty (film)', "Schindler's List", 'Mel Gibson', 'The Three Stooges', 'Heath Ledger', 'Woody Allen', 'James Stewart', 'Sidney Lumet', 'John Wayne']
+
+It was the peninsula fought over in the peninsular war of 1808 to 1814
+["Battle of Lundy's Lane", 'Citadel Hill (Fort George)', 'Hoysala Empire', 'Detroit Financial District', 'C. S. Forester', 'American frontier', 'Woodrow Wilson', 'First Transcontinental Railroad', 'Ottoman Empire', 'USS Constitution']
+
+In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve
+['Radiocarbon dating', 'Norman Borlaug', 'Sea Shepherd Conservation Society operations', 'Blue whale', 'Plastination', 'International Whaling Commission', 'Reforestation', 'Formaldehyde', 'National park', 'Convention on the Conservation of Migratory Species of Wild Animals']
+
+1988: "Father Figure"
+['William Ewart Gladstone', 'William the Silent', "The Hitchhiker's Guide to the Galaxy (video game)", 'Zork', 'Arthur Balfour', 'Wojciech Jaruzelski', 'Charles Gray (English politician)', 'Richard Nixon', 'Joseph Chamberlain', 'Robert Dudley, 1st Earl of Leicester']
+
+In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother"
+['Medgar Evers', 'March on Washington for Jobs and Freedom', 'African-American Civil Rights Movement (1954–68)', 'James Earl Jones', 'Lena Horne', 'Charles Evers', 'Malcolm X', 'Tony "Duke" Evers', 'James Meredith', 'Andrew Goodman']
+
+Father Michael McGivney founded this fraternal society for Catholic laymen in 1882
+['Knights of Columbus', 'Rotary International', 'Lions Clubs International', 'Order of the Arrow', 'Colin Powell', 'Sons of Hermann', 'Order of Chosen Friends', 'Service club', 'American Legion of Honor', 'Junior Optimist Octagon International']
+
+Early projects of the WWF, this organization, included work with the bald eagle & the red wolf
+['Yellowstone National Park', 'Itasca State Park', 'Trough Creek State Park', 'United States Fish and Wildlife Service', 'Tholkappia Poonga', 'Extinction', 'Craters of the Moon National Monument and Preserve', 'Hungarian Ornithological and Nature Conservation Society', 'Rainforest Foundation Norway', 'Conservation of mass']
+
+Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself
+['Rainforest Foundation Norway', 'Extinction', 'Convention on Fishing and Conservation of the Living Resources of the High Seas', 'Biodiversity', 'Formaldehyde', 'Blue whale', 'National park', 'Reforestation', 'Convention on the Conservation of Migratory Species of Wild Animals', 'Yellowstone National Park']
+
+Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!
+['Citizen Kane', 'Amazing Stories', 'Nixon (film)', 'A Month in the Country (film)', 'Chariots of Fire', 'Raise the Red Lantern', 'The Pride of the Yankees', 'Manhatta', 'Sands of Oblivion', "Pandora's Box (1929 film)"]
+
+On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery
+['Oscar Wilde', 'John Ford', 'Aaron Burr', 'Leopold Stokowski', 'Charles Babbage', 'Charles Haughey', 'Margaret Sanger', 'Samuel Morse', 'Peter Kropotkin', 'Cemetery']
+
+The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country
+['Vietnam War', 'Khmer architecture', 'Reamker', 'Paan', 'Betel', 'Areca nut', 'Fish sauce', 'Demographics of Cambodia', 'An Euil Srey An', 'Khmer traditional wrestling']
+
+In the 400s B.C. this Chinese philosopher went into exile for 12 years
+['Khazars', 'Ottoman Empire', 'Historiography', 'Hoysala Empire', 'First Transcontinental Railroad', 'American frontier', 'Chinatown, Manhattan', 'United States Naval Academy', 'Malacañang Palace', 'Majapahit']
+
+Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport
+['Louis Armstrong', 'Bessie Coleman', 'Whitney Houston', 'Kobe Bryant', 'Jay-Z', 'Dennis Rodman', 'Solomon Burke', 'Jean-Bertrand Aristide', 'Janet Jackson', 'Derek Jeter']
+
+The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them
+['American frontier', 'First Transcontinental Railroad', 'Empire State Building', 'Lesser Poland', 'Woodrow Wilson', 'San Diego State University', 'Oregon Trail', 'Ottoman Empire', 'Hyderabad', 'California State Route 1']
+
+"The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting"
+['A Kiss That Killed the One We Love (The Uriah Omen)', 'He-He er xian']
+
+One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked"
+['Concrete', 'Chardonnay', 'Late Show with David Letterman', 'Petroleum', 'Creosote', 'Texaco Star Theatre', 'Marechal Foch', 'Thomcord', 'Colloid', 'Corundum']
+
+France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314
+[]
+
+The Georgia O'Keeffe Museum
+['Museum of Modern Art', 'University of Virginia', 'Phillips Academy', 'Yousuf Karsh', 'Palo Duro Canyon', 'Century 21 Exposition', 'Aaron Copland', 'Poshuouinge', 'Georgia (country)', 'Georgia (U.S. state)']
+
+The name of this largest Moroccan city combines 2 Spanish words
+['Western Sahara', 'Equatorial Guinea', 'Mali', 'Alicia Keys', 'Hugo Chávez', 'Kobe Bryant', 'African-American Civil Rights Movement (1954–68)', 'Nigeria', 'Michael Jackson', 'Slavery in the United States']
+
+Jell-O
+['List of DOS commands', 'Jell-O', 'Sir Henry Wilson, 1st Baronet', "Places in The Hitchhiker's Guide to the Galaxy", 'List of religious sites', 'List of New Zealand Test cricket victories', 'John the Baptist', 'Oregon Trail', 'List of Doctor Who villains', 'Winston Churchill']
+
+2011: Chicago mayor Tom Kane
+['Steven Spielberg', 'Captain America', 'Spencer Tracy', 'Ronald Reagan', 'Cheers', 'Magic Johnson', 'Sidney Lumet', 'Martin Sheen', 'Meryl Streep', 'Michael J. Fox']
+
+Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy
+['Aníbal Acevedo Vilá', 'Itō Hirobumi', 'Terauchi Masatake', 'Maurice Rouvier', 'God in Three Persons']
+
+Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA
+['Jackie Robinson', 'Kareem Abdul-Jabbar', 'Rudolf Carnap', 'Ron Roenicke', 'Rover (song)', 'Jackie Joyner-Kersee', 'Jerry Owens', 'Rob Reiner', 'Kerri Strug', 'Julie Dash']
+
+In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president
+['New York City Subway', 'Namor', 'First Transcontinental Railroad', 'Metropolitan Railway', 'Great North of Scotland Railway', 'Henry Kissinger', 'Frank Lorenzo', 'Grand Central Terminal', 'North American Free Trade Agreement', 'Marylebone station']
+
+He served in the KGB before becoming president & then prime minister of Russia
+['Cheshire Cat', 'Q (Star Trek)', 'Clayface', 'Metamorpho', 'Jinpachi Mishima', 'Violator (comics)', 'Joshua Allen', 'Clark Kent', 'McLaren', 'Octopus']
+
+When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom
+['Michelle Obama', 'Janet Jackson', 'Whitney Houston', 'Alicia Keys', 'Condoleezza Rice', 'Billie Holiday', 'Jane Fonda', 'Erykah Badu', 'Lisa Lopes', 'TLC (group)']
+
+She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light"
+['Joyce Kilmer', 'Vivian Stanshall', 'Ezra Pound', 'Rudyard Kipling', 'Henry Wadsworth Longfellow', 'Michael Jackson', 'Anthony Burgess', 'L. Frank Baum', 'John Cage', 'Van Morrison']
+
+In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko
+['Mobile, Alabama', 'Kraków', 'Stockholm', 'Helsinki', 'Turku', 'Vilnius', 'Kaunas', 'Marquette, Michigan', 'Peter the Great', 'Mexico City']
+
+Milton Bradley games
+["Let's Make a Deal", 'Hasbro', 'List of Totally Spies! characters', 'List of Madagascar (franchise) characters', 'Steven Spielberg', 'List of EastEnders characters (2010)', 'Newcastle United F.C.', 'Koala', 'Douglas MacArthur', 'Merlin']
+
+The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress
+['Confederate States of America', 'American frontier', 'Muhammad Ali', 'Jefferson Davis', 'New Jersey', 'Illinois', 'South Vietnam', 'Ohio', 'Harmony Society', 'Texaco']
+
+1983: "Beat It"
+['Zork', 'William Ewart Gladstone', 'Richard Nixon', 'Robert Dudley, 1st Earl of Leicester', 'John Bright', 'Balthasar Gérard', 'Beeldenstorm', "The Hitchhiker's Guide to the Galaxy (video game)", 'Gulf of Tonkin incident', 'Joseph Chamberlain']
+
+In 2009: Sookie Stackhouse
+['Anna Paquin', 'Michael Jordan', 'Kobe Bryant', 'The West Wing', 'Love (The Beatles album)', 'The Golden Age of Grotesque', 'Gabriel Enrique Gómez', 'Román Torres', 'Russian Roulette (song)', 'Blas Pérez']
+
+This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923
+['Woodrow Wilson', 'Topkapı Palace', 'Rideau Hall', 'White House', 'Mission San Juan Capistrano', 'Jacqueline Kennedy Onassis', 'Watergate complex', 'Gore Vidal', 'Alcatraz Island', 'Coke R. Stevenson']
+
+The High Kirk of St. Giles, where John Knox was minister
+['Edinburgh', 'Scotland', 'England', 'William Howe, 5th Viscount Howe', 'Battle of Bunker Hill', 'Cambridge, Massachusetts', 'George Bradshaw', 'Paris', 'Ronald Reagan', 'William Pitt, 1st Earl of Chatham']
+
+For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production
+['Kareem Abdul-Jabbar', 'Ron Pitts', 'Reggie Miller', 'Ron Roenicke', 'Jackie Robinson', 'Jackie Joyner-Kersee', 'Jerry Owens', 'Rob Reiner', 'Rudolf Carnap', 'Kerri Strug']
+
+Fisher-Price toys
+Top 10 answers: ['Hasbro', 'Netflix', 'Mattel', 'Sir Henry Wilson, 1st Baronet', 'Gray wolf', 'Ernest Hemingway', 'Novartis', 'Winston Churchill', 'Sadie Thompson', 'Joseph McCarthy']
+
+In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women"
+Top 10 answers: ['Jacqueline Kennedy Onassis', 'Historical revisionism (negationism)', 'Budjak', '1925 F Street Club', 'Holland Tunnel', 'Northeast Corridor', 'Morris Canal', 'Hoover Dam', 'Rómulo Pico Adobe', 'Paul Laurence Dunbar House']
+
+One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere"
+['Søren Kierkegaard', 'Michael Jackson', 'Luis Cernuda', 'Ezra Pound', 'Van Morrison', 'John Cage', 'C. S. Lewis', 'William S. Burroughs', 'Lord Byron', 'Ruhollah Khomeini']
+
+This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore
+['Jack Kemp', 'Columbine High School massacre', 'Namor', '2011 Buffalo Bills season', 'Carol Burnett', 'Bob Newhart', 'Carl Reiner', 'Queen Elizabeth 2', 'Marcus Garvey', 'Johnny Moore (trumpeter)']
+
+A 2-part episode of "JAG" introduced this Mark Harmon drama
+['Pac-Man', 'Treehouse of Horror XIX', 'Thoroughly Modern Millie', 'Michael Anaba', 'The Great Gatsby', 'Some Like It Hot', 'Javier Saviola', 'Ben Matulino', 'Esteban Alvarado', 'William Wilberforce']
+
+This port is the southernmost of South Africa's 3 capitals
+['Zambia', 'Afro-Brazilian', 'Comoros', 'Hugo Chávez', 'Winston Churchill', 'Jean-Bertrand Aristide', 'Slavery in the United States', 'Music of South Africa', 'Madagascar', "Shaquille O'Neal"]
+
+Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore"
+[]
+
+In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative"
+[]
+
+This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy
+['Ouzo', 'Halva', 'Olympic Games', 'Hecate', 'Orion (mythology)', 'Hippocrates', 'Damascus', 'Sparta', 'Mycenae', 'Eucharist']
+
+Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this
+['Confederate States of America', 'Puerto Rico', 'Pakistan', 'Florida', 'Louisiana', 'Maryland', 'Hong Kong', 'Empire of Brazil', 'Romania', 'New Jersey']
+
+This person is the queen's representative in Canada; currently the office is held by David Johnston
+['Jean Chrétien', 'Wolverhampton', 'Brian Mulroney', 'Harold Pinter', 'Bob Rae', 'Nikola Tesla', 'Order of Military Merit (Canada)', 'Joey Smallwood', 'Steven Spielberg', 'Rhode Island']
+
+He earned the "fifth Beatle" nickname by producing all of the Beatles' albums
+['Clark Kent (Smallville)', 'Clayface', 'Gaara', 'Falco Lombardi', 'Vegeta', 'Krillin', 'Invisible Kid', 'Flounder', 'Swindon', 'Wile E. Coyote and The Road Runner']
+
+Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle
+['Charles Dickens', 'Warren G. Harding', 'William Randolph Hearst', 'L. Frank Baum', 'Larry King', 'Rock-paper-scissors', 'Chauncey Bailey', 'Horace Greeley', 'Stanley Matthews (lawyer)', 'Houston Chronicle']
+
+Large specimens of this marsupial can leap over barriers 6 feet high
+['Concrete', 'Petroleum', 'Cabernet Sauvignon', 'Chardonnay', 'Riesling', 'Creosote', 'Merlot', 'Golden rice', 'Barbera', "Hey Hey It's Saturday"]
+
+Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese
+['Feta', 'Corfu', 'Pentecost', 'Trabzon', 'Odysseus', 'Circe', 'Ancient Libya', 'Canosa di Puglia', 'Squid (food)', 'Ouzo']
+
+1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that!
+['The Hollywood Revue of 1929', 'The Jazz Singer', 'Alice Comedies', 'Plane Crazy', 'The Wind (1928 film)', 'The Barker', 'The Letter (1929 film)', 'Clash of the Wolves', 'Human Wreckage', 'Katowice-Muchowiec Airport']
+
+Italian for "leader", it was especially applied to Benito Mussolini
+['Silvio Berlusconi', 'Joachim von Ribbentrop', 'Rome', 'Milan', 'Pope Pius XI', 'Hermann Göring', 'Valencia', 'Zog I of Albania', "Ze'ev Jabotinsky", 'Mount Etna']
+
+The Kalamazoo Institute of Arts
+['College of William & Mary', 'Grand Valley State University', 'Michigan', 'Pfizer', 'Malcolm X', 'John C. Breckinridge', 'Reynolds and Reynolds', 'Mei-Ann Chen', 'M-99 (Michigan highway)', 'Metropolitan Museum of Art']
+
+The Sun Valley Center for the Arts
+['Phoenix, Arizona', 'Nairobi', 'Chicago', 'Genoa', 'Hyderabad', 'Mobile, Alabama', 'Hong Kong', 'Yosemite National Park', 'Roanoke, Virginia', 'Newark, New Jersey']
+
+You can't mention this shortstop without mentioning his double-play associates Evers & Chance
+['Q (Star Trek)', 'Cheshire Cat', 'Clayface', 'Metamorpho', 'Jinpachi Mishima', 'Violator (comics)', 'Joshua Allen', 'Clark Kent', 'McLaren', 'Octopus']
+
+In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate
+['Horace Greeley', 'Warren G. Harding', 'Morning Star (British newspaper)', 'Silvio Berlusconi', 'Rupert Murdoch', 'The Washington Post', 'Todd Manning', 'Houston Chronicle', 'Ken Barlow', 'The Irish Times']
+
+Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431
+[]
+
+This Wisconsin city claims to have built the USA's only granite dome
+['Chrysler Building', 'Minute Maid Park', "Saint Isaac's Cathedral", 'Blackstone Library', "St Paul's Cathedral", 'New York City Hall', 'Church of the Holy Sepulchre', 'Reliant Astrodome', 'Lighthouse of Genoa', 'Rogers Centre']
+
+This Georgia paper is known as the AJC for short
+['The Atlanta Journal-Constitution', 'Procter & Gamble', 'Horace Greeley', 'Times New Roman', 'Celestine Sibley', 'Francis Preston Blair', 'George Cary (Georgia politician)', 'Rome News-Tribune', 'John H. Steele', 'History of British newspapers']
+
+Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south
+['Metropolitan Museum of Art', 'Madagascar', 'Ice Cube', 'Charles Alston', 'Great Mosque of Djenné', 'Julian Abele', 'Janet Jackson', 'Hugo Chávez', 'Whitney Houston', 'Kobe Bryant']
+
+This New Orleans venue reopened Sept. 25, 2006
+['W. G. Grace', 'Reliant Astrodome', 'Mercedes-Benz Superdome', 'Candlestick Park', 'Haskell Free Library and Opera House', 'New Canal Light', 'Gallier Hall', 'Holy Family Cathedral (Tulsa, Oklahoma)', 'St. Anthony of Padua Church (Bronx)', 'Petronius (oil platform)']
+
+"The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock"
+['A Kiss That Killed the One We Love (The Uriah Omen)', 'He-He er xian']
+
+Rita Dove titled a collection of poems "On the Bus with" this woman
+['Stanley Williams', 'Rosa Parks', 'Janet Jackson', 'Kobe Bryant', 'Michelle Obama', 'Jackie Robinson', 'Muhammad Ali', 'Winston Churchill', 'Libya', 'African-American Civil Rights Movement (1954–68)']
+
+"Patriot Games"; he's had other iconic roles, in space & underground
+['He-He er xian', 'A Kiss That Killed the One We Love (The Uriah Omen)']
+
+This sacred structure dates from the late 600's A.D.
+['Rhine', 'Mission San Juan Capistrano', 'Church of the Holy Sepulchre', "St Paul's Cathedral", 'British Library', 'Capitoline Hill', "St. John's Cathedral (Los Angeles)", 'Sacred Heart Catholic Church (McCartyville, Ohio)', 'Cologne Cathedral', 'Laie Hawaii Temple']
+
+1988: "Man In The Mirror"
+['Arthur Balfour', 'Zork', "The Hitchhiker's Guide to the Galaxy (video game)", 'Maurice, Prince of Orange', 'William Ewart Gladstone', 'Joseph Chamberlain', 'Richard Nixon', 'John Bright', 'History of the United States (1964–80)', 'Henry Clinton (American War of Independence)']
+
+Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867
+['Prince Eugene of Savoy', 'Bratislava', 'Annapolis, Maryland', 'Paris', 'Church of the Holy Sepulchre', 'Ronald Reagan', 'Haarlem', 'England', 'William Pitt, 1st Earl of Chatham', 'Edinburgh']
+
+Attending UCLA in the '60s, he was no "Meathead", he just played one later on television
+['Jackie Robinson', 'Kareem Abdul-Jabbar', 'Kevin Love', 'Reggie Miller', 'Rob Reiner', 'Julie Dash', 'Jackie Joyner-Kersee', 'Dawn Harper', '1984 Rose Bowl', 'Jerry Owens']
+
+Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show
+['Itō Hirobumi', 'Terauchi Masatake', 'Maurice Rouvier', 'God in Three Persons', 'Aníbal Acevedo Vilá']
+
+News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!
+['Citizen Kane', 'Nash Motors', 'The Jazz Singer', 'The Cabinet of Dr. Caligari', 'Malcolm X (1992 film)', 'Chariots of Fire', 'The Dream-Quest of Unknown Kadath', 'A Month in the Country (film)', 'Raise the Red Lantern', 'Nixon (film)']
+
+In 2001: The president of the United States on television
+['Ronald Reagan', 'Cristiano Ronaldo', '24 (TV series)', 'Konrad Adenauer', 'The West Wing', 'Colin Powell', 'The Sopranos', 'Douglas MacArthur', 'Evander Holyfield', 'Winston Churchill']
+
+1989: "Miss You Much"
+['Richard Nixon', "The Hitchhiker's Guide to the Galaxy (video game)", 'Zork', 'Luke the Evangelist', 'William Ewart Gladstone', 'Robert Dudley, 1st Earl of Leicester', 'Joseph Chamberlain', 'History of the United States (1964–80)', 'John Bright', 'Beeldenstorm']
+
+1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic!
+['Citizen Kane', 'Malcolm X (1992 film)', 'Beer Hall Putsch', '1920s', 'The Great Ziegfeld', 'Porco Rosso', 'Austrian krone', 'Metropolis (1927 film)', 'New Economic Policy', 'Raise the Red Lantern']
+
+Crest toothpaste
+['Procter & Gamble', "List of minor The Hitchhiker's Guide to the Galaxy characters", 'Peppermint', 'Spearmint', '2003 term United States Supreme Court opinions of Anthony Kennedy', '2009 term United States Supreme Court opinions of Anthony Kennedy', 'Alicia Keys', 'List of New Zealand Test cricket victories', 'Watch the Throne', 'List of tallest buildings and structures in the world']
+
+In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world"
+['William Lyon Mackenzie King', 'Carl Linnaeus', 'Chartres Cathedral', 'Grand Central Terminal', 'Wilfrid Laurier', 'Vilnius', 'Majapahit', 'Kingdom of Heaven (film)', 'Joey Smallwood', 'Lviv']
+
+In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth"
+['William Shakespeare', 'Lord Byron', 'Samuel Johnson', 'Stephen Crane', 'Horace', 'Ralph Waldo Emerson', 'Giacomo Leopardi', 'Bliss Carman', 'Thomas Babington Macaulay, 1st Baron Macaulay', 'Kathy Acker']
+
+Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia
+['Vietnam War', 'Demographics of Cambodia', 'Paan', 'Nokor Reach', 'Areca nut', 'An Euil Srey An', 'Tep Sodachan', 'Pich Min Tonn Chnai', 'Pov Malis Lea', 'Preah Vesandor']
+
+Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance.
+['Vietnam War', 'Areca nut', 'Longan', 'Betel', 'Fish sauce', 'Paan', 'Khmer architecture', 'Reamker', 'Norodom Buppha Devi', 'Suryavarman I']
+
+1980: "Rock With You"
+['History of the United States (1964–80)', 'Richard Nixon', 'Zork', 'Robert Dudley, 1st Earl of Leicester', 'Beeldenstorm', 'Joseph Chamberlain', 'William Ewart Gladstone', 'Kenau Simonsdochter Hasselaer', 'Hugh Montgomery, 1st Viscount Montgomery', 'William the Silent']
+
+The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign
+['L&N Station (Knoxville)', 'Jack Kemp', 'First Transcontinental Railroad', 'Metropolitan Railway', 'Queen Elizabeth 2', 'Great North of Scotland Railway', 'New York City Subway', 'Channel Tunnel', 'Grand Central Terminal', 'The Price Is Right (U.S. game show)']
+
+In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant"
+['Konrad Adenauer', 'Winston Churchill', 'Richard Nixon', 'Vladimir Putin', 'Clement Attlee', 'Rotary International', 'David Duke', 'BBC News', 'Karl Popper', 'Kim Philby']
+
+Don Knotts took over from Norman Fell as the resident landlord on this sitcom
+['Aníbal Acevedo Vilá', 'Itō Hirobumi', 'Terauchi Masatake', 'God in Three Persons', 'Maurice Rouvier']
+
+U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war
+['Pakistan', 'Romania', 'New Jersey', 'Murray Rothbard', 'Nigeria', 'India', 'Empire State Building', 'Trondheim', 'Kingdom of Jerusalem', 'Cyprus']
+
+This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major
+['Julie Dash', 'Dawn Harper', 'Jackie Robinson', 'Reggie Miller', 'Jerry Owens', 'Ron Roenicke', 'Rudolf Carnap', 'Gene Settles', 'Matt Taylor (American soccer)', 'Mike Zaher']
+
+The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s"
+['Souvlaki', 'Cat Stevens', 'Corfu', 'Plato', 'Hypatia', 'New Testament', 'Plovdiv', 'Mycenae', 'Orion (mythology)', 'Olympic Games']
+
+Post-it notes
+['Goldman Sachs', 'Netflix', 'Nokia', 'Reading, Berkshire', 'Walmart', 'Winston Churchill', 'George McGovern', 'Alicia Keys', 'Dingo', 'Golden Eagle']
+
+In 2010: As Sherlock Holmes on film
+['Robert Downey, Jr.', 'Charlton Heston', 'Roger Moore', 'Doc Savage', 'Abdul Hamid II', 'Charles Babbage', 'Billy Wilder', 'Mickey Rooney', 'Russell Crowe', 'Halle Berry']
+
